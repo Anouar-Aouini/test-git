@@ -4,7 +4,9 @@ function App() {
   return (
     <div className="App">
       <h1>New react project app</h1>
-      <h3>New push by Hichem</h3>
+
+      <h3>New push by master</h3>
+
     </div>
   );
 }
